@@ -16,14 +16,14 @@ create role Analyst
 
 grant select on Employee_View to Analyst
 
--- G1_23BCS11181_Atul Kumar Gour_SESSION1
+-- G1_23BCS10599_Yash Kotra_SESSION1
 
 --in role user
 
 select * from Employee_View
 
 update  Employee_View 
-set client_name = 'atul'
+set client_name = 'yash'
 where client_id = 2
 
-  -- G1_23BCS11181_Atul Kumar Gour_SESSION1
+-- G1_23BCS10599_Yash Kotra_SESSION1 
