@@ -6,4 +6,4 @@ WHERE t.visit_id IS NULL
 GROUP BY v.customer_id
 ORDER BY count_no_trans DESC;
 
--- G1_23BCS80342_Tarun_Session3
+-- G1_23BCS10599_Yash Kotra

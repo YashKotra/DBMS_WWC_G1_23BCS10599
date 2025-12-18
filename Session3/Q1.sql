@@ -8,4 +8,4 @@ LEFT JOIN (
 ON s.user_id = temp.user_id
 ORDER BY confirmation_rate;
 
--- G1_23BCS80342_Tarun_Session3
+-- G1_23BCS10599_Yash Kotra
